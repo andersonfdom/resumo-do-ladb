@@ -19,7 +19,7 @@ Governança e Gerenciabilidade: A governança em nuvem assegura que os recursos 
 
 Esses conceitos tornam a plataforma Azure robusta, escalável e segura, ajudando empresas a gerenciar suas infraestruturas de forma eficiente e econômica.
 
-<h2>Modelo de Responsabilidade Compartilhada</h2>
+<h2>Microsoft Azure - Modelo de Responsabilidade Compartilhada</h2>
 O texto descreve os três principais tipos de serviços em nuvem oferecidos pela Microsoft Azure: IaaS (Infraestrutura como Serviço), PaaS (Plataforma como Serviço) e SaaS (Software como Serviço), destacando as responsabilidades compartilhadas entre o cliente e o provedor de nuvem.
 
 IaaS (Infraestrutura como Serviço):
